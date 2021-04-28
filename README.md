@@ -7,4 +7,6 @@ It's so satisfying to see it creating, isn't it?😍
 
 Go and visit the [link](https://amishranpariya.github.io/reaction_diffusion/) to see it live.🎉🥳
 
+![example](reaction.gif)
+
 > Happy coding🥰
